@@ -1,1 +1,1 @@
-
+I initially attempted the assignment using Databricks with the notebook *"ML\_OPS\_Assignment3\_AutoML\_databricks\_LG.ipynb"*. However, due to the limitations of the free Databricks edition and issues with installing required packages, I was unable to get it working despite multiple attempts. As a result, I switched to using FLAML and H2O in Google Colab, both of which worked successfully.
